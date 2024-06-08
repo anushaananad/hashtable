@@ -1,5 +1,5 @@
 # hashtable
-Hash Table Using Arrays using python
+Hash Table using Arrays in python
 
 ## About Hash Tables:
 HashTable:
